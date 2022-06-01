@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="DELETE">
+        <default_value/>
+        <name>Update Priority</name>
+        <parent>9441292e97fe01102734f8b3f153af42</parent>
+        <parent_table>sys_sg_write_back_action_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-14 14:06:24</sys_created_on>
+        <sys_id>0471a92e97fe01102734f8b3f153af70</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Update Priority</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_0471a92e97fe01102734f8b3f153af70</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-14 16:34:06</sys_updated_on>
+        <type>integer</type>
+    </sys_sg_item_parameter>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>1ce113ab1bb8c51032182f8dee4bcb13</instance_id>
+        <instance_name>dev120626</instance_name>
+        <name>sys_sg_item_parameter_0471a92e97fe01102734f8b3f153af70</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter"><sys_sg_item_parameter action="INSERT_OR_UPDATE"><default_value/><name>Update Priority</name><parent>9441292e97fe01102734f8b3f153af42</parent><parent_table>sys_sg_write_back_action_item</parent_table><sys_class_name>sys_sg_item_parameter</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-04-14 14:06:24</sys_created_on><sys_id>0471a92e97fe01102734f8b3f153af70</sys_id><sys_mod_count>3</sys_mod_count><sys_name>Update Priority</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_sg_item_parameter_0471a92e97fe01102734f8b3f153af70</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-04-14 16:34:06</sys_updated_on><type>integer</type></sys_sg_item_parameter></record_update>]]></payload>
+        <payload_hash>-1367628286</payload_hash>
+        <record_name>Update Priority</record_name>
+        <reverted_from/>
+        <source>81319871972501102734f8b3f153af3e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-14 16:34:06</sys_created_on>
+        <sys_id>b54302a6977241102734f8b3f153afbb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18028ecc2290000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-14 16:34:06</sys_updated_on>
+        <type>Item Parameter</type>
+        <update_guid>fd4302a65b72411071939561a02aa9ba</update_guid>
+        <update_guid_history>fd4302a65b72411071939561a02aa9ba:-1367628286,cce142667272411060be04992fb7444b:-978061477,68b18e26a7724110c99b5a0c9e0db2ea:-1367628286,9671edaa9dfe0110eac4d5c94d149e07:-978061477</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-14 18:07:12</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_item_parameter">sys_sg_item_parameter</sys_db_object>
+        <sys_id>25c8c89510584ffaa60c071a6e2e2eb1</sys_id>
+        <sys_metadata>0471a92e97fe01102734f8b3f153af70</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Update Priority</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_sg_item_parameter_0471a92e97fe01102734f8b3f153af70</sys_update_name>
+        <sys_update_version display_value="sys_sg_item_parameter_0471a92e97fe01102734f8b3f153af70">b54302a6977241102734f8b3f153afbb</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-14 18:07:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
